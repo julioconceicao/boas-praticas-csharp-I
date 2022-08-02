@@ -8,8 +8,8 @@ namespace impostos_aula_01
     {
         public void RealizaCalculo(Orcamento orcamento, IImposto imposto)
         {
-            double icms = imposto.Calcula(orcamento);
-            Console.WriteLine(icms);
+            double resultado = imposto.Calcula(orcamento);
+            Console.WriteLine(resultado);
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "impostos-aula-01/1.0.0": {
+        "runtime": {
+          "impostos-aula-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "impostos-aula-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

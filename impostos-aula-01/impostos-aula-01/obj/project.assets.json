@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\BoasPraticas-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
       "projectName": "impostos-aula-01",
-      "projectPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\BoasPraticas-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
+      "projectPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\BoasPraticas-I\\impostos-aula-01\\impostos-aula-01\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

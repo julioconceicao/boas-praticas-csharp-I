@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj": {}
+    "C:\\Users\\Julio\\Documents\\repos\\ALURA\\boas-praticas-csharp-I\\impostos-aula-01\\BoasPraticasCSharp-I\\impostos-aula-01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj": {
+    "C:\\Users\\Julio\\Documents\\repos\\ALURA\\boas-praticas-csharp-I\\impostos-aula-01\\BoasPraticasCSharp-I\\impostos-aula-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\Documents\\repos\\ALURA\\boas-praticas-csharp-I\\impostos-aula-01\\BoasPraticasCSharp-I\\impostos-aula-01.csproj",
         "projectName": "impostos-aula-01",
-        "projectPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\impostos-aula-01.csproj",
+        "projectPath": "C:\\Users\\Julio\\Documents\\repos\\ALURA\\boas-praticas-csharp-I\\impostos-aula-01\\BoasPraticasCSharp-I\\impostos-aula-01.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\Documents\\repos\\CursoBoasPraticasCsharpAlura\\boas-praticas-csharp-I\\impostos-aula-01\\impostos-aula-01\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\Documents\\repos\\ALURA\\boas-praticas-csharp-I\\impostos-aula-01\\BoasPraticasCSharp-I\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

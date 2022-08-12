@@ -6,6 +6,7 @@ namespace impostos_aula_01.Impostos
 {
     public class ICCC : IImposto
     {
+        public ICCC(Impostos outroImposto) : base(outroImposto) { }
         public double Calcula(Orcamento orcamento)
         {
             if (orcamento.Valor < 1000.0)
@@ -20,6 +21,11 @@ namespace impostos_aula_01.Impostos
             {
                 return orcamento.Valor * 0.08 + 30.0;
             }
+        }
+
+        private double CalculoDoOutroImposto(Orcamento orcamento)
+        {
+            return OutroImposto.Calcula(orcamento);
         }
     }
 }

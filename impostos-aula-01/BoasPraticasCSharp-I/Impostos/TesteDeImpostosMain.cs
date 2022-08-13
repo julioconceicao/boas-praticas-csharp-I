@@ -1,23 +1,23 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+// using System;
+// using System.Collections.Generic;
+// using System.Linq;
+// using System.Threading.Tasks;
 
-namespace impostos_aula_01.Impostos
-{
-    public class TesteDeImpostosMain
-    {
-        static void Main(String[] args)
-        {
-            Imposto impostoComplexo = new ImpostoMuitoAlto(new ICMS());
+// namespace impostos_aula_01.Impostos
+// {
+//     public class TesteDeImpostosMain
+//     {
+//         static void Main(String[] args)
+//         {
+//             Imposto impostoComplexo = new ImpostoMuitoAlto(new ICMS());
 
-            Orcamento orcamento = new Orcamento(500.0);
+//             Orcamento orcamento = new Orcamento(500.0);
 
-            double valor = impostoComplexo.Calcula(orcamento);
+//             double valor = impostoComplexo.Calcula(orcamento);
 
-            Console.WriteLine(valor);
+//             Console.WriteLine(valor);
 
-            Console.ReadKey();
-        }
-    }
-}
+//             Console.ReadKey();
+//         }
+//     }
+// }
